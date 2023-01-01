@@ -143,6 +143,7 @@ nav ul li a:hover {
 }
 
 .container-text {
+    padding-top: 170px;
     position: relative;
     bottom: 70px;
 }
